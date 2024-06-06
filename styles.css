@@ -1,0 +1,88 @@
+.outer-square {
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+
+.box {
+    border: 1px solid black;
+    width: 5px;
+    height: 5px;
+    background-color: black;
+    position: absolute;
+    top: 253px;
+    left: 794px;
+}
+
+.wall1 {
+    border: 1px solid black;
+    width: 500px;
+    height: 15px;
+    position: absolute;
+    top: 8px;
+    left: 550px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wall2 {
+    border: 1px solid black;
+    width: 200px;
+    height: 15px;
+    position: absolute;
+    top: 40px;
+    left: 590px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wall3 {
+    border: 1px solid black;
+    width: 200px;
+    height: 15px;
+    position: absolute;
+    top: 200px;
+    left: 650px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wall4 {
+    border: 1px solid black;
+    width: 15px;
+    height: 500px;
+    position: absolute;
+    top: 8px;
+    left: 550px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wall5 {
+    border: 1px solid black;
+    width: 15px;
+    height: 500px;
+    position: absolute;
+    top: 8px;
+    left: 1034px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wall6 {
+    border: 1px solid black;
+    width: 500px;
+    height: 15px;
+    position: absolute;
+    top: 493px;
+    left: 550px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
